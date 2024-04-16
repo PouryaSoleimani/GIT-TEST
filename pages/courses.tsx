@@ -9,6 +9,7 @@ const Courses: NextPage<Props> = ({ }) => {
         <div className='text-3xl font-extrabold flex flex-col space-y-4 p-6'>
             <h1>{age}</h1>
             <h2>HELLO WORLD</h2>
+            <h3>THE TEST FOR commit -am</h3>
         </div>
     )
 }
