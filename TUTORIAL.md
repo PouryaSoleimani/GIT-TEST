@@ -19,3 +19,11 @@ TUTORIAL.txt
 - git commit -am'THE FAST COMMIT WITHOUT ADDING' = THE -am FLAG COMMITED OUR CHANGES WITHOUT FIRST ADDING TO THE STAGING AREA
 - git show <id> = SHOWS US THE CHANGES THAT HAPPENED IN A SPEACIAL COMMIT --> TAKES AN <id> , IF WE DONT GIVE IT AN ID , THE LAST COMMIT WILL BE SHOWN
 - git config --local alias.lgo "log --oneline" = HERE WE HAVE MADE A CUSTOMIZED SHORT FORM FOR THE COMMAND "log --online" , CALLED (( lgo )) , SO WRITING (lgo) MEANS log --oneline
+<!-- //& BRANCHES IN GIT ------------------------------------------------------------------------------------------------------------------------------------------ -->
+- git branch == SHOWS US ALL THE BRANCHES IN OUR PROJECT
+- git branch <Branch Name> == CREATE A NEW BRANCH WITH THE NAME WE HAVE WRITTEN AFTER THE WORD 'BRANCH'
+- git switch <Branch Name> == SWITCHES BETWEEN OUR BRANCHES , THE DESTINATION IS THE BRANCH WE HAVE WRITTEN ITS NAME
+- git switch -c <Branch Name> = FIRST CREATES A BRANCH WITH <Branch Name> THEN SWITCHES TO IT
+- git branch -d <Branch Name> = REMOVES A BRANCH (THIS ACTION NEEDS A CONFIRMATION)
+- git branch -m < NEW Branch Name> = RENAMES THE BRANCH , ONLY AVAILABLE WHEN WE ARE ALREADY IN THAT BRANCH
+- git merce <Branch Name> = MERGING THE DESTINATION BRANCH WITH THE MASTER BRANCH ( SHOULD RUN WHEN WE ARE IN MASTER BRANCH )
