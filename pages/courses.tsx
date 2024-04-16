@@ -10,6 +10,7 @@ const Courses: NextPage<Props> = ({ }) => {
             <h1>{age}</h1>
             <h2>HELLO WORLD</h2>
             <h3>THE TEST FOR commit -am</h3>
+            <p>TESTING ALIASES</p>
         </div>
     )
 }
