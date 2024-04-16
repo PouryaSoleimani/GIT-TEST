@@ -1,0 +1,22 @@
+import { NextPage, GetStaticProps } from 'next'
+
+interface Props { }
+
+const Courses: NextPage<Props> = ({ }) => {
+    const age = 30
+
+    return (
+        <div className='text-3xl font-extrabold flex flex-col space-y-4 p-6'>
+            <h1>{age}</h1>
+            <h2>HELLO WORLD</h2>
+        </div>
+    )
+}
+
+export const getStaticProps: GetStaticProps = async (ctx) => {
+    return {
+        props: {},
+    }
+}
+
+export default Courses
