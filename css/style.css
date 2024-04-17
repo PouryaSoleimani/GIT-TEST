@@ -1,3 +1,11 @@
-.login{
+.login {
     color: red;
+}
+
+.signUp {
+    display: flex;
+}
+
+h2 {
+    color: blue;
 }
