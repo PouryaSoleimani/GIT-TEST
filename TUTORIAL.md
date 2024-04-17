@@ -2,7 +2,7 @@ TUTORIAL.txt
 <!-- //^GIT TUTORIAL // ----------------------------------------------------------------------------------------------------------------------------------------------->
 - git init = MAKING THE .git FOLDER
 - git status = SHOW THE PROJECT CURRENT STATUS
-- U = UNTRACKED 
+- U = UNTRACKED
 - git add  =  MOVING A FILE OR REPOSITORY TO THE STAGING AREA
 - git add . = MOVING EVERYTHING TO THE STAGING AREA
 - U = UNTRACKED
@@ -27,3 +27,15 @@ TUTORIAL.txt
 - git branch -d <Branch Name> = REMOVES A BRANCH (THIS ACTION NEEDS A CONFIRMATION)
 - git branch -m < NEW Branch Name> = RENAMES THE BRANCH , ONLY AVAILABLE WHEN WE ARE ALREADY IN THAT BRANCH
 - git merge <Branch Name> = MERGING THE DESTINATION BRANCH WITH THE MASTER BRANCH ( SHOULD RUN WHEN WE ARE IN MASTER BRANCH ) << FAST FORWARD MERGE >>
+
+<!-- //* SEMANTIC COMMIT MESSAGES  ----------------------------------------------------------------------------------------------------------------------------------->
+feat: (new feature for the user, not a new feature for build script)
+fix: (bug fix for the user, not a fix to a build script)
+docs: (changes to the documentation)
+style: (formatting, missing semi colons, etc; no production code change)
+refactor: (refactoring production code, eg. renaming a variable)
+test: (adding missing tests, refactoring tests; no production code change)
+chore: (updating grunt tasks etc; no production code change)
+
+<!--//^ GIT DIFF ------------------------------------------------------------------------------------------------------------------------------------------------------>
+- git diff == SHOWING THE DIFFRENCES BETWEEN OUR WORKING DIRECTORY AND THE STAGING AREA
