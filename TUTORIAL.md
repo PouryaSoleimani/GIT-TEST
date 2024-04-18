@@ -1,4 +1,4 @@
-TUTORIAL.txt
+<!-- ???? TUTORIAL.txt -->
 <!-- //^GIT TUTORIAL //------------------------->
 - git init = MAKING THE .git FOLDER
 - git status = SHOW THE PROJECT CURRENT STATUS
