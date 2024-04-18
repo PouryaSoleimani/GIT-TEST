@@ -54,3 +54,6 @@ chore: (updating grunt tasks etc; no production code change)
 
 <!-- ! GIT CLEAN -->
 - git clean <FILE NAME> == DELETES THE FILE -> HAVE SOME FLAGS ==>
+
+<!-- ! GIT REVERT -->
+-git revert <COMMIT ID> == DISCARD THE CHANGES AFTER THE COMMIT ID AND WILL RETURN THE PROJECT TO THE COMMIT STATUS
