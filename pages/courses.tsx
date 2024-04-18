@@ -4,6 +4,7 @@ interface Props { }
 
 const Courses: NextPage<Props> = ({ }) => {
     const age = 30
+    const setTicket = () => { return false }
     return (
         <div className='text-3xl font-extrabold flex flex-col space-y-4 p-6'>
             <h1>{age}</h1>
