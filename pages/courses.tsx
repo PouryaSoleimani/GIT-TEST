@@ -13,7 +13,6 @@ const Courses: NextPage<Props> = ({ }) => {
             <p>TESTING FOR MERGING NON-FAST-FORWARD BRANCHES</p>
             <p>TESTING THE GIT DIFF</p>
             <p>TESTING THE REVERT </p>
-            <p>TESTING THE REVERT 2</p>
         </div>
     )
 }
