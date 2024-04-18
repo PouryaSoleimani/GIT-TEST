@@ -55,3 +55,7 @@ chore: (updating grunt tasks etc; no production code change)
 
 <!-- ! GIT CLEAN -->
 - git clean <FILE NAME> == DELETES THE FILE -> HAVE SOME FLAGS ==>
+
+
+<!-- ! GIT REVERT -->
+- git revert <COMMIT ID> = GOING BACK TO THE COMMIT WE WANT AND DISCARD ALL THE CHANGES AFTER THAT COMMIT - (CAN DO IT BOTH BY TERMINAL AND BY GITLENS EXTENSION) 
