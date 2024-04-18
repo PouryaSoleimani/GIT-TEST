@@ -61,6 +61,7 @@ chore: (updating grunt tasks etc; no production code change)
 <!-- ~ GIT MAIN BRANCH -->
 - git branch -M main == NAMING THE MASTER OR MAIN BRANCH AS <MAIN>
 - git branch -r === SHOWS THE REMOTE BRANCH AFTER FETCHING SOME DATAS    
+
 <!-- * GIT CLONE -->
 - git clone <REPOSITIRY ADDRESS>  == DOWNLOADS THE FILES FROM A REPO IN GITHUB.COM AND WE CAN USE THE PROJECT , WE CAN CLONE A REPO IF ONLY ITS PUBLIC
 
