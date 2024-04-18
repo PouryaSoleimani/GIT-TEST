@@ -61,12 +61,18 @@ chore: (updating grunt tasks etc; no production code change)
 <!-- * GIT CLONE -->
 - git clone <REPOSITIRY ADDRESS>  == DOWNLOADS THE FILES FROM A REPO IN GITHUB.COM AND WE CAN USE THE PROJECT , WE CAN CLONE A REPO IF ONLY ITS PUBLIC
 
-<!-- * GIT REMOTE -->
+<!-- * GIT REMOTE ADD -->
 - git remote add origin <REPOSITORY ADDRESS> == THIS WAY WE CAN ADD OUR PROJECT TO A REPO IN GITHUB.COM
 
-<!-- ^ GIT PUSH -->
+<!-- ! GIT REMOTE REMOVE -->
+- git remote remove <REMOTE NAME> == REMOVES OUR REMOTE ( MOSTLY NAMED <<ORIGIN>> ) 
+
+<!-- ^ GIT REMOTE VERBOSE -->
+- git remote -v == SHOWS OUR REMOTES WITH A LITTLE DETAILS
+
+<!-- * GIT PUSH -->
 - git push -u origin main/master == ADDING OUR FILES TO A REPOSITORY IN GITHUB.COM
 
-<!-- ^ GIT MAIN BRANCH -->
+<!-- ~ GIT MAIN BRANCH -->
 - git branch -M main == NAMING THE MASTER OR MAIN BRANCH AS <MAIN>
 
