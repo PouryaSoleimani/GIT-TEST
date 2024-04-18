@@ -87,6 +87,19 @@ chore: (updating grunt tasks etc; no production code change)
 1 - git fetch origin
 2 - git push -f origin master
 
+<!-- ? MARKDONW FILES AS (README.md) -->
+-- RIGHT CLICK AND CHOOSE OPEN PREVIEW TO SEE THE OUTPUT OF YOUR README.md FILE
+# HEADERS == USING # WILL BE CONSIDERED AS h ELEMENTS , # IS h1 AND ## is h2 , ...
+<p> WE CAN ALSO USE p TAG IN .md FILES </p>
+___THREE DASH OR UNDERLINES MAKE A hr ELEMENT
+USING `` WILL HIGHLIGHT OUR TEXT , LIKE `CODE`
+USING 3 ``` WILL MAKE A BOX FOR CODES FOR US ``` 
+``` 
+{
+    "userName" : "Pourya Soleimani"
+}
+```
+
 
 
 
