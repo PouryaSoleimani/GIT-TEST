@@ -2,6 +2,7 @@ TUTORIAL.txt
 <!-- //^GIT TUTORIAL //------------------------->
 - git init = MAKING THE .git FOLDER
 - git status = SHOW THE PROJECT CURRENT STATUS
+- git status -s = SHOW THE PROJECT CURRENT STATUS IN SHORT FORM ( -s == --short )
 - U = UNTRACKED
 - git add  =  MOVING A FILE OR REPOSITORY TO THE STAGING AREA
 - git add . = MOVING EVERYTHING TO THE STAGING AREA
