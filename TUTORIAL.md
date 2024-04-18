@@ -82,6 +82,11 @@ chore: (updating grunt tasks etc; no production code change)
 
 <!-- ^ GIT FETCH -->
 - git fetch <REMOTE NAME(origin)> <BRANCH NAME(main | master)> === FETCHING DATA
+*** TO PUSH DATA TO A REPOSITORY FOLLOW THE FOLLOWING STEPS :  
+1 - git fetch origin
+2 - git push -f origin master
+
+
 
 
 
