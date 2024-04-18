@@ -12,6 +12,7 @@ const Courses: NextPage<Props> = ({ }) => {
             <p>TESTING ALIASES</p>
             <p>TESTING FOR MERGING NON-FAST-FORWARD BRANCHES</p>
             <p>TESTING THE GIT DIFF</p>
+            <p>TESTING THE REVERT </p>
         </div>
     )
 }
