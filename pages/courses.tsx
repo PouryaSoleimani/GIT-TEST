@@ -11,7 +11,6 @@ const Courses: NextPage<Props> = ({ }) => {
             <h3>THE TEST FOR commit -am</h3>
             <p>TESTING ALIASES</p>
             <p>TESTING FOR MERGING NON-FAST-FORWARD BRANCHES</p>
-            <p>TESTING THE GIT DIFF</p>
         </div>
     )
 }
