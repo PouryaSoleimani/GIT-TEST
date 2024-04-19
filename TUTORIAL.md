@@ -125,7 +125,9 @@ USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
     - Nulla volutpat aliquam velit
 + Very easy!
 
-<!-- ^ WRITING LINKS -->
+<!-- * WRITING LINKS -->
+[LINK-TITLE](LINK-HREF)
+
 [github link](www.github.com)
 ---
 [google](www.google.com)
