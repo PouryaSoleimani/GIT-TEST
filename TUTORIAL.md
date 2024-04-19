@@ -125,7 +125,7 @@ USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
     - Nulla volutpat aliquam velit
 + Very easy!
 
-<!-- * WRITING LINKS -->
+<!-- ? WRITING LINKS -->
 [LINK-TITLE](LINK-HREF)
 
 [github link](www.github.com)
@@ -141,3 +141,6 @@ USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
 ![GITHUB-MINION-CAT](https://octodex.github.com/images/minion.png "MINION-CAT") "MINION CAT"
 ---
 
+<!-- ^ BADGES  -->
+LINKS IN THE BOOKMARKS 
+USE readme.so TO EASILY WRITE README.md FILES
