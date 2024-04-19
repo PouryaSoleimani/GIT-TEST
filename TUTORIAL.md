@@ -124,12 +124,13 @@ USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
     + Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
 + Very easy!
-
+****
 <!-- ? WRITING LINKS -->
 [LINK-TITLE](LINK-HREF)
 
 [github link](www.github.com)
 ---
+
 [google](www.google.com)
 ---
 
@@ -145,3 +146,4 @@ USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
 LINKS IN THE BOOKMARKS 
 USE readme.so TO EASILY WRITE README.md FILES
 
+****
