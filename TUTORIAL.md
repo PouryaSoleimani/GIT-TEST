@@ -93,14 +93,49 @@ chore: (updating grunt tasks etc; no production code change)
 <p> WE CAN ALSO USE p TAG IN .md FILES </p>
 ___THREE DASH OR UNDERLINES MAKE A hr ELEMENT
 USING `` WILL HIGHLIGHT OUR TEXT , LIKE `CODE`
+`code`
+<!-- ^INLINE CODES -->
 USING 3 ``` WILL MAKE A BOX FOR CODES FOR US ``` 
-``` 
+<!-- ^CODES -->
+``` javascript
+
+const logger = () =>{console.log('LOG LOG')}
+
+```
+<!-- ^ CODES -->
+``` json
 {
-    "userName" : "Pourya Soleimani"
+    "firstName" : "Pourya"
 }
 ```
+<!-- ^ ORDERED LISTS -->
+USING NUMBERS WILL CREATE AN ORDERED LIST ( ol )
+1. HTML
+2. CSS
+3. JS
+4. TS
+5. REACT
+---
+<!-- ^ UNORDERED LISTS -->
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
 
+<!-- ^ WRITING LINKS -->
+[github link](www.github.com)
+---
+[google](www.google.com)
+---
 
+<!-- ! IMAGES -->
+![IMAGE-DESC](IMAGE-URL "IMAGE-ALT")
 
-
+![GITHUB-NINJA-CAT](https://octodex.github.com/images/dojocat.jpg "NINJA CAT") "NINJA CAT"
+---
+![GITHUB-MINION-CAT](https://octodex.github.com/images/minion.png "MINION-CAT") "MINION CAT"
+---
 
